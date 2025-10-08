@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Sean Pham</title>
-        <link>http://localhost:1313/</link>
-        <description>All you need to know about this guy: Sean</description>
+        <title>All Posts - Sean Pham</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | Sean Pham</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>sphamcy@gmail.com (Sean Pham)</managingEditor>
-            <webMaster>sphamcy@gmail.com (Sean Pham)</webMaster><lastBuildDate>Wed, 08 Oct 2025 17:54:17 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>sphamcy@gmail.com (Sean Pham)</webMaster><lastBuildDate>Mon, 06 Oct 2025 17:33:15 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My 4 Years of Working and Studying in the UK - Part 1</title>
     <link>http://localhost:1313/my-4-years-of-work-and-study-in-the-uk/</link>
     <pubDate>Mon, 06 Oct 2025 17:33:15 &#43;0800</pubDate>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Croatia Trip - Dubrovnik on Sean Pham</title>
+    <link>http://localhost:1313/portfolio/travel/</link>
+    <description>Recent content in Croatia Trip - Dubrovnik on Sean Pham</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>sphamcy@gmail.com (Sean Pham)</managingEditor>
+    <webMaster>sphamcy@gmail.com (Sean Pham)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/travel/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

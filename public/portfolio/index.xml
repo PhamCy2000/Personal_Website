@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Sean Pham</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on Sean Pham</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>sphamcy@gmail.com (Sean Pham)</managingEditor>
+    <webMaster>sphamcy@gmail.com (Sean Pham)</webMaster>
+    <lastBuildDate>Wed, 08 Oct 2025 17:37:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Croatia Trip - Dubrovnik</title>
+      <link>http://localhost:1313/portfolio/travel/croatia-trip-dubrovnik/</link>
+      <pubDate>Wed, 08 Oct 2025 17:37:30 +0800</pubDate><author>sphamcy@gmail.com (Sean Pham)</author>
+      <guid>http://localhost:1313/portfolio/travel/croatia-trip-dubrovnik/</guid>
+      <description>&lt;p&gt;Dubrovnik&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
