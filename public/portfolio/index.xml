@@ -11,11 +11,11 @@
     <lastBuildDate>Wed, 08 Oct 2025 17:37:30 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Croatia Trip - Dubrovnik</title>
-      <link>http://localhost:1313/portfolio/travel/croatia-trip-dubrovnik/</link>
+      <title>Automotive Driving Robot</title>
+      <link>http://localhost:1313/portfolio/projects/automotive-driving-robot/</link>
       <pubDate>Wed, 08 Oct 2025 17:37:30 +0800</pubDate><author>sphamcy@gmail.com (Sean Pham)</author>
-      <guid>http://localhost:1313/portfolio/travel/croatia-trip-dubrovnik/</guid>
-      <description>&lt;p&gt;Dubrovnik&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portfolio/projects/automotive-driving-robot/</guid>
+      <description>&lt;h1 id=&#34;developing-a-braking-robot-prototype-for-rd-in-fuel-efficiency--autonomous-technology&#34;&gt;Developing A Braking Robot Prototype For R&amp;amp;D In Fuel Efficiency &amp;amp; Autonomous Technology&lt;/h1&gt;&#xA;&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;&#xA;&lt;p&gt;The Automotive Driving Robot was my final-year group project during my Master’s in Mechanical Engineering (Automotive) at the University of Southampton, UK. It’s a mechatronic prototype built with a stepper motor, micro-LIDAR TOF sensor, and an Arduino-based PID control system, with key parts made using additive manufacturing. The system was tested in a Toyota Prius Plug-In Hybrid under a controlled, risk-assessed environment to validate its performance and safety.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

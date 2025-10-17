@@ -1,13 +1,14 @@
 # Choosing a Fridge with Mum: When Logic Meets Lionmas Discounts
 
 
-## 🧊 *“You’re a mechanical engineer graduate, you should know how to pick a fridge for us.”*
+## 🧊 *“You’re a mechanical engineer graduate, you should know how to pick the best fridge for us.”*
 
-My mum nagged over WhatsApp. The notification pinged — she had just sent me a bunch of photos, each showing a refrigerator with a price tag. Most were on clearance sales at a local wholesaler, after her usual afternoon shop-browsing session.
+My mum nagged over WhatsApp. The notification pinged — she had just sent me a bunch of photos, each showing a refrigerator with a price tag. Most were on clearance sales at a local wholesaler, in her usual afternoon shop-browsing session.
 
 As a mechanical engineering graduate, yes... I could recall some technical bits about how a fridge works — **heat pumps, R134a refrigerants, fins, compressors**, and all that jazz.
 
-But that’s not what a middle-aged Asian mum cares about. With a fixed budget, her main concerns were simple:  
+But that’s not what a middle-aged Asian mum cares about. With a fixed budget, her main concerns were simple:
+
 *“Can this fridge fit nicely in the kitchen?”*  
 *“Got enough space for my groceries?”*  
 *“Nice or not?”*
@@ -16,7 +17,7 @@ After some *mum-and-son debate*, I realised the deciding factors were quite diff
 
 ---
 
-### 🧍‍♀️ What My Mum Cares About
+### What My Mum Cares About
 
 * **Aesthetic:** *French-door design for sure.* (Yes, I only found out this year that’s what you call the double-door type.) Metallic coating, clean lines — she’s all about that polished look.  
 * **Compartment Volume:** *“Large but not too large.”* That’s why she insists on visiting physical stores — to open and close every door herself. According to **Electrolux**, French-door fridges range from **350 to 600 litres**.  
@@ -24,14 +25,17 @@ After some *mum-and-son debate*, I realised the deciding factors were quite diff
 
 ---
 
-### ⚙️ What I (Finally) Convinced Her to Consider
+### What I (Finally) Convinced Her to Consider
 
 * **Energy Efficiency:** Look for the sticker with more stars ⭐ — the fridge runs 24/7, so efficiency matters.  
 * **Refrigerant Type:** Back in university, I learned about **R134a**, a common refrigerant used in older fridges and air-cons. It works, but it’s not environmentally friendly. Nowadays, the greener choice is **R600a (isobutane)**, which is **primarily replacing R134a in household refrigerators and freezers**.  
 * **Operating Noise:** Anything below **40 dB** is considered quiet — less humming, more peace.  
 * **Cooling Technology:** Every brand has its own fancy name — *LG’s LinearCooling™*, *Panasonic’s PrimeFresh™*, *Samsung’s Twin Cooling Plus™*. Some even come with **UV sterilisation** to kill bacteria and keep food fresher longer.
 
-📸 *Photo: Energy efficiency labels displayed in store.*
+<!-- {{< figure
+  src="energy-efficiency.jpg"
+  title="Energy efficiency rating of a fridge"
+>}} -->
 
 ---
 

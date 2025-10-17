@@ -1,19 +1,17 @@
 # Automotive Driving Robot
 
 
-# Reinventing the Brake Robot: Making Vehicle Research Affordable Again  
+# Developing A Braking Robot Prototype For R&D In Fuel Efficiency & Autonomous Technology
 
-## 🚗 Breaking Out of Convention  
+#### Overview
 
-Coming up with a new design is tough. Challenging something that’s already “industry standard” feels like staring into a black hole — you don’t know what’s inside until you jump.  
-
-Our team studied existing braking robots, especially those from **AB Dynamics**. Their systems are top-notch — super precise, widely used for ADAS and vehicle dynamics testing — but way too expensive for most research groups. So, we asked ourselves a simple question:  
-
-> *Can we reimagine braking robots to be more affordable, realistic, and adaptable for real-world use — without compromising data quality?*  
+The Automotive Driving Robot was my final-year group project during my Master’s in Mechanical Engineering (Automotive) at the University of Southampton, UK. It’s a mechatronic prototype built with a stepper motor, micro-LIDAR TOF sensor, and an Arduino-based PID control system, with key parts made using additive manufacturing. The system was tested in a Toyota Prius Plug-In Hybrid under a controlled, risk-assessed environment to validate its performance and safety.
 
 ---
 
-## 💡 Building for Real Roads, Not Just Labs  
+#### Video
+
+{{< youtube faJe8Imc2Zo >}}
 
 We wanted a system that small research teams could actually use — not just admire from afar.  
 

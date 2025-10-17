@@ -8,14 +8,21 @@
     <language>en</language>
     <managingEditor>sphamcy@gmail.com (Sean Pham)</managingEditor>
     <webMaster>sphamcy@gmail.com (Sean Pham)</webMaster>
-    <lastBuildDate>Wed, 08 Oct 2025 17:46:31 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 10:20:16 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>&#43;Index</title>
-      <link>http://localhost:1313/blogs/travel/test/</link>
+      <title>4D printing</title>
+      <link>http://localhost:1313/blogs/engineering/4d-printing/</link>
+      <pubDate>Fri, 17 Oct 2025 10:20:16 +0800</pubDate><author>sphamcy@gmail.com (Sean Pham)</author>
+      <guid>http://localhost:1313/blogs/engineering/4d-printing/</guid>
+      <description>&lt;h3 id=&#34;thats-not-a-typo-just-like-telecommunication-technology-3d-printing-is-breaking-to-another-dimension&#34;&gt;&amp;ldquo;That&amp;rsquo;s not a typo, just like telecommunication technology, 3D printing is breaking to another dimension&amp;rdquo;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>POV: Choosing a Fridge with mum as an engineer</title>
+      <link>http://localhost:1313/blogs/engineering/fridge/</link>
       <pubDate>Wed, 08 Oct 2025 17:46:31 +0800</pubDate><author>sphamcy@gmail.com (Sean Pham)</author>
-      <guid>http://localhost:1313/blogs/travel/test/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blogs/engineering/fridge/</guid>
+      <description>&lt;h3 id=&#34;youre-a-mechanical-engineer-graduate-you-should-know-how-to-pick-the-best-fridge-for-us&#34;&gt;&lt;em&gt;“You’re a mechanical engineer graduate, you should know how to pick the best fridge for us.”&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;p&gt;My mum nagged over WhatsApp. The notification pinged — she had just sent me a bunch of photos, each showing a refrigerator with a price tag. Most were on clearance sales at a local wholesaler, in her usual afternoon shop-browsing session.&lt;/p&gt;&#xA;&lt;p&gt;As a mechanical engineering graduate, yes&amp;hellip; I could recall some technical bits about how a fridge works — &lt;strong&gt;heat pumps, R134a refrigerants, fins, compressors&lt;/strong&gt;, and all that jazz.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
