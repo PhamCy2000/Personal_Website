@@ -15,6 +15,13 @@ My fascination with design didn't stop at Computer-Aided Design (CAD). I found t
 
 This naturally extends to my passion for 3D modelling, where I get to shape ideas into visually compelling forms, much like sculpting with digital clay.
 
+Home: My latest update about me
+Blogs: Engineering blogs
+Life: Sharing about travel life OR daily life (Chess, Badminton, Guitar)
+Portfolio: my past personal/academic projects
+Services: 3D modelling/3D CAD, design freelance job
+
+
 ### Beyond the Screen and Schematics
 
 When I'm not working on a project or writing code, I believe in leading a balanced life full of varied interests.
